@@ -1,0 +1,12 @@
+./a.out < cases/case1.in > cases/case1.out
+./a.out < cases/case2.in > cases/case2.out
+./a.out < cases/case3.in > cases/case3.out
+./a.out < cases/case4.in > cases/case4.out
+./a.out < cases/case5.in > cases/case5.out
+./a.out < cases/case6.in > cases/case6.out
+./a.out < cases/case7.in > cases/case7.out
+./a.out < cases/case8.in > cases/case8.out
+./a.out < cases/case9.in > cases/case9.out
+./a.out < cases/case10.in > cases/case10.out
+./a.out < cases/case11.in > cases/case11.out
+./a.out < cases/case12.in > cases/case12.out

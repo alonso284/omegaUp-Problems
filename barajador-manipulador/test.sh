@@ -1,0 +1,13 @@
+./a.out < grupo1.caso1.in > grupo1.caso1.out
+./a.out < grupo1.caso2.in > grupo1.caso2.out
+./a.out < grupo1.caso3.in > grupo1.caso3.out
+./a.out < grupo1.caso4.in > grupo1.caso4.out
+./a.out < grupo1.caso5.in > grupo1.caso5.out
+./a.out < grupo2.caso1.in > grupo2.caso1.out
+./a.out < grupo2.caso2.in > grupo2.caso2.out
+./a.out < grupo3.caso1.in > grupo3.caso1.out
+./a.out < grupo3.caso2.in > grupo3.caso2.out
+./a.out < grupo4.caso1.in > grupo4.caso1.out
+./a.out < grupo4.caso2.in > grupo4.caso2.out
+./a.out < grupo5.caso1.in > grupo5.caso1.out
+./a.out < grupo5.caso2.in > grupo5.caso2.out

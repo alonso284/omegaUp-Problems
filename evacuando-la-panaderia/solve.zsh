@@ -1,0 +1,12 @@
+./a.out < caso1.1.in > caso1.1.out
+./a.out < caso1.2.in > caso1.2.out
+./a.out < caso2.1.in > caso2.1.out
+./a.out < caso2.2.in > caso2.2.out
+./a.out < caso3.1.in > caso3.1.out
+./a.out < caso3.2.in > caso3.2.out
+./a.out < caso4.1.in > caso4.1.out
+./a.out < caso4.2.in > caso4.2.out
+./a.out < caso4.3.in > caso4.3.out
+./a.out < caso4.4.in > caso4.4.out
+./a.out < caso5.1.in > caso5.1.out
+./a.out < caso5.2.in > caso5.2.out
